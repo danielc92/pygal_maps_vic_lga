@@ -1,0 +1,1 @@
+# Pygal mapping library for victorian local government areas adapted from `pygal_maps_fr` module
